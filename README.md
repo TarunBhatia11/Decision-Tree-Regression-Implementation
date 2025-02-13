@@ -7,6 +7,8 @@
 
 # Overview:
   This repository contains a Jupyter Notebook that demonstrates the implementation of Decision Tree Regression using Python. Decision Tree Regression is a non-linear regression technique that splits data into segments using tree-based rules, making it effective for capturing complex relationships in data.
+
+
 ![dtr](https://github.com/user-attachments/assets/e5ead469-000f-4c15-90d2-500fad4d72ce)
 
 
