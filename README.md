@@ -36,16 +36,15 @@
 
 # How to Run the Notebook
 
-  Clone this repository:
+  1. Clone this repository:
 
-    git clone <repository_url>
-    cd <repository_folder>
+    git clone <https://github.com/TarunBhatia11/Decision-Tree-Regression-Implementation/tree/main>
 
-  Open the Jupyter Notebook:
+  2. Open the Jupyter Notebook:
 
-  jupyter notebook DecisionTreeRegression.ipynb
+    jupyter notebook DecisionTreeRegression.ipynb
 
-  Run the cells sequentially to execute the code.
+  3. Run the cells sequentially to execute the code.
 
 # Results & Observations
 
